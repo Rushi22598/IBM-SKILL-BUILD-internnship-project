@@ -1,5 +1,5 @@
 # Agriculture_Analysis
-Indian agricultural analysis
+Analyzing Agriculture in India and making strategic decisions based on it according to population
 1.  Prediction for farmers opting out from producing certain crops and pre-ferring some other crops that has high demand and better yield.
 2.  Variations of crops over the past in production and yield/area.
 3.  Reasons for farmers preferring some crops over others.
